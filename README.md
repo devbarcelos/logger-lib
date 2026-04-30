@@ -9,11 +9,18 @@ Professional logger-lib library.
 
 ## Installation
 ```bash
-# Install
+npm install logger-lib
 ```
 
 ## Usage
-```bash
-# Use it
+```javascript
+const lib = require('logger-lib');
 ```
 
+## Testing
+```bash
+npm test
+```
+
+## License
+MIT
